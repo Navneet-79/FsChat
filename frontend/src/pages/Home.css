@@ -1,0 +1,20 @@
+/* body{
+    background: linear-gradient(rgb(226, 136, 196),rgb(223, 180, 203),rgb(184, 160, 178));
+} */
+.bgrnd{
+    background: rgb(207,200,200);
+    background: linear-gradient(90deg, rgba(207,200,200,1) 0%, rgba(147,242,243,1) 35%, rgba(97,215,232,1) 70%, rgba(0,128,155,1) 100%);
+}
+.home__bg{
+    background-image: url('../assets/img1.jpg');
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    opacity: 0.8;
+}
+.home-message-icon {
+    margin-left: 10px;
+    display: inline-block;
+}
